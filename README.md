@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Aljon Adamos
+- 👀 I’m interested in New technologies
+- 🌱 I’m currently learning Web Developing
+- 💞️ I’m looking to collaborate on Well mannered IT Proffesionals
+- 📫 You can reach me in my Gmail account: adamosaljon63@gmail.com
